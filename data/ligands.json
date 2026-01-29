@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Ligand A",
+        "formula": "C10H12N2O",
+        "mw": 176.22,
+        "type": "agonist",
+        "properties": {
+            "solubility": "high",
+            "binding_affinity": "low"
+        }
+    },
+    {
+        "name": "Ligand B",
+        "formula": "C15H20N2O4S",
+        "mw": 324.40,
+        "type": "antagonist",
+        "properties": {
+            "solubility": "medium",
+            "binding_affinity": "high"
+        }
+    },
+    {
+        "name": "Ligand C",
+        "formula": "C8H10O2",
+        "mw": 138.16,
+        "type": "partial agonist",
+        "properties": {
+            "solubility": "low",
+            "binding_affinity": "medium"
+        }
+    }
+]
